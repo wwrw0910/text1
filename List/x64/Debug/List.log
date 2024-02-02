@@ -1,0 +1,228 @@
+﻿  List.c
+E:\study\TEST\List\List.h(9,2): error C2061: 语法错误: 标识符“LTNode”
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(10,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(11,1): error C2059: 语法错误:“}”
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(15,7): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(16,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(16,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(16,31): error C2059: 语法错误:“)”
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(19,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(19,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(19,32): error C2370: “LTDataType”: 重定义；不同的存储类
+  (编译源文件“List.c”)
+  E:\study\TEST\List\List.h(5,13):
+  参见“LTDataType”的声明
+  
+E:\study\TEST\List\List.h(19,43): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(19,44): error C2059: 语法错误:“)”
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(20,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(20,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(20,33): error C2370: “LTDataType”: 重定义；不同的存储类
+  (编译源文件“List.c”)
+  E:\study\TEST\List\List.h(5,13):
+  参见“LTDataType”的声明
+  
+E:\study\TEST\List\List.h(20,44): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(20,45): error C2059: 语法错误:“)”
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(22,20): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(22,20): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(22,27): error C2059: 语法错误:“)”
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(24,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(24,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(24,29): error C2059: 语法错误:“)”
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(25,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(25,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.h(25,30): error C2059: 语法错误:“)”
+  (编译源文件“List.c”)
+  
+E:\study\TEST\List\List.c(17,7): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\study\TEST\List\List.c(18,9): error C2065: “LTNode”: 未声明的标识符
+E:\study\TEST\List\List.c(18,19): error C2065: “newnode”: 未声明的标识符
+E:\study\TEST\List\List.c(18,28): error C2065: “LTNode”: 未声明的标识符
+E:\study\TEST\List\List.c(18,29): error C2059: 语法错误:“)”
+E:\study\TEST\List\List.c(19,13): error C2065: “newnode”: 未声明的标识符
+E:\study\TEST\List\List.c(19,13): warning C4047: “==”:“int”与“void *”的间接级别不同
+E:\study\TEST\List\List.c(24,8): error C2065: “newnode”: 未声明的标识符
+E:\study\TEST\List\List.c(24,10): error C2223: “->data”的左侧必须指向结构/联合
+E:\study\TEST\List\List.c(25,8): error C2065: “newnode”: 未声明的标识符
+E:\study\TEST\List\List.c(25,10): error C2223: “->next”的左侧必须指向结构/联合
+E:\study\TEST\List\List.c(25,24): error C2065: “newnode”: 未声明的标识符
+E:\study\TEST\List\List.c(25,26): error C2223: “->prev”的左侧必须指向结构/联合
+E:\study\TEST\List\List.c(25,40): error C2065: “newnode”: 未声明的标识符
+E:\study\TEST\List\List.c(26,15): error C2065: “newnode”: 未声明的标识符
+E:\study\TEST\List\List.c(26,1): warning C4047: “return”:“int *”与“int”的间接级别不同
+E:\study\TEST\List\List.c(29,7): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\study\TEST\List\List.c(31,8): error C2065: “LTNode”: 未声明的标识符
+E:\study\TEST\List\List.c(31,8): error C2297: “*”: 无效，因为右操作数的类型为“int *”
+E:\study\TEST\List\List.c(35,20): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\study\TEST\List\List.c(35,20): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\study\TEST\List\List.c(35,27): error C2059: 语法错误:“)”
+E:\study\TEST\List\List.c(36,1): error C2054: 在“phead”之后应输入“(”
+E:\study\TEST\List\List.c(49,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\study\TEST\List\List.c(49,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\study\TEST\List\List.c(49,32): error C2370: “LTDataType”: 重定义；不同的存储类
+  E:\study\TEST\List\List.h(5,13):
+  参见“LTDataType”的声明
+  
+E:\study\TEST\List\List.c(49,43): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+E:\study\TEST\List\List.c(49,44): error C2059: 语法错误:“)”
+E:\study\TEST\List\List.c(50,1): error C2054: 在“x”之后应输入“(”
+E:\study\TEST\List\List.c(58,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\study\TEST\List\List.c(58,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\study\TEST\List\List.c(58,33): error C2370: “LTDataType”: 重定义；不同的存储类
+  E:\study\TEST\List\List.h(5,13):
+  参见“LTDataType”的声明
+  
+E:\study\TEST\List\List.c(58,44): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+E:\study\TEST\List\List.c(58,45): error C2059: 语法错误:“)”
+E:\study\TEST\List\List.c(59,1): error C2054: 在“x”之后应输入“(”
+E:\study\TEST\List\List.c(70,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\study\TEST\List\List.c(70,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\study\TEST\List\List.c(70,31): error C2059: 语法错误:“)”
+E:\study\TEST\List\List.c(71,1): error C2054: 在“pphead”之后应输入“(”
+E:\study\TEST\List\List.c(77,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\study\TEST\List\List.c(77,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\study\TEST\List\List.c(77,29): error C2059: 语法错误:“)”
+E:\study\TEST\List\List.c(78,1): error C2054: 在“phead”之后应输入“(”
+E:\study\TEST\List\List.c(90,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+E:\study\TEST\List\List.c(90,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+E:\study\TEST\List\List.c(90,30): error C2059: 语法错误:“)”
+E:\study\TEST\List\List.c(91,1): error C2054: 在“phead”之后应输入“(”
+  test.c
+E:\study\TEST\List\List.h(9,2): error C2061: 语法错误: 标识符“LTNode”
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(10,8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(11,1): error C2059: 语法错误:“}”
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(15,7): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(16,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(16,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(16,31): error C2059: 语法错误:“)”
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(19,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(19,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(19,32): error C2370: “LTDataType”: 重定义；不同的存储类
+  (编译源文件“test.c”)
+  E:\study\TEST\List\List.h(5,13):
+  参见“LTDataType”的声明
+  
+E:\study\TEST\List\List.h(19,43): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(19,44): error C2059: 语法错误:“)”
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(20,24): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(20,24): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(20,33): error C2370: “LTDataType”: 重定义；不同的存储类
+  (编译源文件“test.c”)
+  E:\study\TEST\List\List.h(5,13):
+  参见“LTDataType”的声明
+  
+E:\study\TEST\List\List.h(20,44): error C2146: 语法错误: 缺少“;”(在标识符“x”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(20,45): error C2059: 语法错误:“)”
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(22,20): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(22,20): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(22,27): error C2059: 语法错误:“)”
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(24,22): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(24,22): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(24,29): error C2059: 语法错误:“)”
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(25,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(25,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\List.h(25,30): error C2059: 语法错误:“)”
+  (编译源文件“test.c”)
+  
+E:\study\TEST\List\test.c(5,8): error C2065: “LTNode”: 未声明的标识符
+E:\study\TEST\List\test.c(5,16): error C2065: “plist”: 未声明的标识符
+E:\study\TEST\List\test.c(5,16): warning C4047: “=”:“int”与“int *”的间接级别不同
+E:\study\TEST\List\test.c(5,8): error C2106: “=”: 左操作数必须为左值
+E:\study\TEST\List\test.c(16,8): error C2065: “LTNode”: 未声明的标识符
+E:\study\TEST\List\test.c(16,16): error C2065: “plist”: 未声明的标识符
+E:\study\TEST\List\test.c(16,16): warning C4047: “=”:“int”与“int *”的间接级别不同
+E:\study\TEST\List\test.c(16,8): error C2106: “=”: 左操作数必须为左值
+  正在生成代码...
